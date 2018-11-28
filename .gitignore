@@ -1,0 +1,8 @@
+*.class
+target
+# Package Files #
+*.jar
+.settings
+.project
+*/.classpath
+*/log
